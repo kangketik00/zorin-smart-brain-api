@@ -1,4 +1,4 @@
-const IsOnDev = true;
+const IsOnDev = false;
 
 module.exports = {
   IsOnDev,
